@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-![TryHackMe Badge](https://img.shields.io/badge/tryhackme-Noxi395-blue)
+
 
 
 <!---
