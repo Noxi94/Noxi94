@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+
+________________________________________________________________________________________________
   
 ![tryhackme stats](https://raw.githubusercontent.com/Noxi94/Noxi94/master/assets/thm_propic.png)
 
