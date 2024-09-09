@@ -3,14 +3,13 @@
 <br><br>
 
 > ## Hacking Skills 
+<br>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Noxi395.png" alt="TryHackMe">
 
 <br>
 
 > ## Other Skills 
-<br>
-
 [![My Skills](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)
 
 
