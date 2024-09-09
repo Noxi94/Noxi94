@@ -1,10 +1,12 @@
 # Hey 👋 I'm Noxi
 
-
+<br><br>
 
 > ## Hacking Skills 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Noxi395.png" alt="TryHackMe">
+
+<br>
 
 > ## Other Skills 
 
