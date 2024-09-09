@@ -1,4 +1,5 @@
 # Hey 👋 I'm Noxi
+<br>
 
 <br><br>
 
@@ -9,6 +10,7 @@
 <br>
 
 > ## Other Skills 
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)
 
