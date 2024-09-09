@@ -6,9 +6,6 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Noxi395.png" alt="TryHackMe">
 
-________________________________________________________________________________________________
-
-
 > ## Other Skills 
 
 [![My Skills](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)
