@@ -5,9 +5,15 @@
 - 📫 How to reach me -> E-Mail 
 - 😄 Pronouns: He/Him
 
+> Hacking Skills <
 ________________________________________________________________________________________________
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Noxi395.png" alt="TryHackMe">
+
+
+
+> Additional Skills <
+________________________________________________________________________________________________
 
 [![My Skills](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)
 
