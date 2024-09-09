@@ -6,8 +6,8 @@
 - 😄 Pronouns: He/Him
 
 ________________________________________________________________________________________________
-  
 
+ ![tryhackme stats](https://raw.githubusercontent.com/Noxi94/Noxi94/master/assets/thm_propic.png)
 
 <!---
 Noxi94/Noxi94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
