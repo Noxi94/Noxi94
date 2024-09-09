@@ -1,5 +1,4 @@
-# Hey 👋 I'm Noxi
-<br>
+<h1>Hey 👋 I'm Noxi </h1>
 
 <br><br>
 
