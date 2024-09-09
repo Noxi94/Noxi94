@@ -7,7 +7,8 @@
 
 ________________________________________________________________________________________________
 
-![tryhackme stats](https://raw.githubusercontent.com/Noxi94/Noxi94/master/assets/thm_propic.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Noxi395.png" alt="TryHackMe">
+-> https://tryhackme.com/p/Noxi395
 
 <!---
 Noxi94/Noxi94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
